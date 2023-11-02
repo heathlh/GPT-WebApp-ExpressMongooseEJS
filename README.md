@@ -1,5 +1,1 @@
-# Paste your openAI API key to config.js
-
-# Run the app
-    - npm install
-    - npm start
+This is a web app using Express/Mongoose/EJS and the OpenAI API which uses prompt engineering to generate useful responses to specific user queries.
